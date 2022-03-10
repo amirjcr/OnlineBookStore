@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6919d979-00d5-4292-a0f0-a33209b54dd5": {
+      "ProjectGuid": "6919d979-00d5-4292-a0f0-a33209b54dd5",
+      "DisplayName": "BookMS.Domain",
+      "ColorIndex": 0
+    },
+    "f28dcd6c-1522-4f30-8806-7331948a7700": {
+      "ProjectGuid": "f28dcd6c-1522-4f30-8806-7331948a7700",
+      "DisplayName": "OnlineBookStore.Common",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
