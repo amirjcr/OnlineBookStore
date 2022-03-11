@@ -1,5 +1,5 @@
-﻿
-namespace OnlineBookStore.Common.Domain;
+﻿namespace OnlineBookStore.Common.Domain;
+
 
 public abstract class BaseEntity<TId>
 {

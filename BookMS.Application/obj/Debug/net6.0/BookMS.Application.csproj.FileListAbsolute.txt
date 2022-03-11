@@ -1,0 +1,5 @@
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.csproj.AssemblyReference.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.AssemblyInfoInputs.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.AssemblyInfo.cs
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.csproj.CoreCompileInputs.cache

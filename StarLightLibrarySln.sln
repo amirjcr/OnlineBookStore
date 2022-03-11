@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{E19129DE-91D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EndPoints", "EndPoints", "{925496C8-73C0-4326-A892-B04520DA4F6B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineBookSoreWeb", "Src\EndPoints\OnlineBookSoreWeb\OnlineBookSoreWeb.csproj", "{D3EE68C5-78E4-47DB-897E-4694E675D48F}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookManagementSystem", "BookManagementSystem", "{17BC694A-D5CD-4B0D-BACB-07D5CA1CA0CD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMS.Domain", "src\BookManagementSystem\BookMS.Domain\BookMS.Domain.csproj", "{6919D979-00D5-4292-A0F0-A33209B54DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBookStore.Common", "OnlineBookStore.Common\OnlineBookStore.Common.csproj", "{F28DCD6C-1522-4F30-8806-7331948A7700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineBookStore.Common", "OnlineBookStore.Common\OnlineBookStore.Common.csproj", "{F28DCD6C-1522-4F30-8806-7331948A7700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMS.Application", "BookMS.Application\BookMS.Application.csproj", "{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3EE68C5-78E4-47DB-897E-4694E675D48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3EE68C5-78E4-47DB-897E-4694E675D48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3EE68C5-78E4-47DB-897E-4694E675D48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3EE68C5-78E4-47DB-897E-4694E675D48F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6919D979-00D5-4292-A0F0-A33209B54DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6919D979-00D5-4292-A0F0-A33209B54DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6919D979-00D5-4292-A0F0-A33209B54DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,16 +29,20 @@ Global
 		{F28DCD6C-1522-4F30-8806-7331948A7700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F28DCD6C-1522-4F30-8806-7331948A7700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F28DCD6C-1522-4F30-8806-7331948A7700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{925496C8-73C0-4326-A892-B04520DA4F6B} = {E19129DE-91D2-4195-9CD0-7B387D8A8CBD}
-		{D3EE68C5-78E4-47DB-897E-4694E675D48F} = {925496C8-73C0-4326-A892-B04520DA4F6B}
 		{17BC694A-D5CD-4B0D-BACB-07D5CA1CA0CD} = {E19129DE-91D2-4195-9CD0-7B387D8A8CBD}
 		{6919D979-00D5-4292-A0F0-A33209B54DD5} = {17BC694A-D5CD-4B0D-BACB-07D5CA1CA0CD}
 		{F28DCD6C-1522-4F30-8806-7331948A7700} = {E19129DE-91D2-4195-9CD0-7B387D8A8CBD}
+		{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79} = {17BC694A-D5CD-4B0D-BACB-07D5CA1CA0CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {60458EAB-9CFB-4DCA-B4D0-40D53FA1A94A}

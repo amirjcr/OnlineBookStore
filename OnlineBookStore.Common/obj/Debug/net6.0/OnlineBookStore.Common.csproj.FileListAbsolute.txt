@@ -1,0 +1,12 @@
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\bin\Debug\net6.0\OnlineBookStore.Common.deps.json
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\bin\Debug\net6.0\OnlineBookStore.Common.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\bin\Debug\net6.0\ref\OnlineBookStore.Common.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\bin\Debug\net6.0\OnlineBookStore.Common.pdb
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.csproj.AssemblyReference.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.AssemblyInfoInputs.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.AssemblyInfo.cs
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\ref\OnlineBookStore.Common.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.pdb

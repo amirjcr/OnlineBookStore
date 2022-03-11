@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9K7CnuaOiqGbReaVp/nNelVTfAok9KXlsvO+GHMd5e/OCvmRYpOMrO7xTdVCYe8tvJmYLQzsJQu6p1I0+2Ycwg==",
+  "dgSpecHash": "6ZNY/90UqKlc7xK+amTQeTss2Z+JGWhxsxGO3/gJSaIJv4Xn8kZTo3pGV0BeDvh6xNsZxo5g5yhG6NHE2egUjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\OnlineBookStore.Common\\OnlineBookStore.Common.csproj",
+  "projectFilePath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\BookMS.Application\\BookMS.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amir_\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\Amir_\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",

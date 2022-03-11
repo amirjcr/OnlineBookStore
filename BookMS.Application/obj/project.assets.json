@@ -1062,8 +1062,8 @@
     },
     "OnlineBookStore.Common/1.0.0": {
       "type": "project",
-      "path": "../../../OnlineBookStore.Common/OnlineBookStore.Common.csproj",
-      "msbuildProject": "../../../OnlineBookStore.Common/OnlineBookStore.Common.csproj"
+      "path": "../OnlineBookStore.Common/OnlineBookStore.Common.csproj",
+      "msbuildProject": "../OnlineBookStore.Common/OnlineBookStore.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1077,11 +1077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\src\\BookManagementSystem\\BookMS.Domain\\BookMS.Domain.csproj",
-      "projectName": "BookMS.Domain",
-      "projectPath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\src\\BookManagementSystem\\BookMS.Domain\\BookMS.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\BookMS.Application\\BookMS.Application.csproj",
+      "projectName": "BookMS.Application",
+      "projectPath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\BookMS.Application\\BookMS.Application.csproj",
       "packagesPath": "C:\\Users\\Amir_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\src\\BookManagementSystem\\BookMS.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\BookMS.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amir_\\AppData\\Roaming\\NuGet\\NuGet.Config",
