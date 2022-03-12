@@ -414,6 +414,19 @@
           "lib/netcoreapp3.0/System.Text.Json.dll": {}
         }
       },
+      "BookMS.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OnlineBookStore.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookMS.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookMS.Domain.dll": {}
+        }
+      },
       "OnlineBookStore.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1060,6 +1073,11 @@
         "version.txt"
       ]
     },
+    "BookMS.Domain/1.0.0": {
+      "type": "project",
+      "path": "../src/BookManagementSystem/BookMS.Domain/BookMS.Domain.csproj",
+      "msbuildProject": "../src/BookManagementSystem/BookMS.Domain/BookMS.Domain.csproj"
+    },
     "OnlineBookStore.Common/1.0.0": {
       "type": "project",
       "path": "../OnlineBookStore.Common/OnlineBookStore.Common.csproj",
@@ -1068,6 +1086,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BookMS.Domain >= 1.0.0",
       "OnlineBookStore.Common >= 1.0.0"
     ]
   },
@@ -1100,6 +1119,9 @@
           "projectReferences": {
             "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\OnlineBookStore.Common\\OnlineBookStore.Common.csproj": {
               "projectPath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\OnlineBookStore.Common\\OnlineBookStore.Common.csproj"
+            },
+            "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\src\\BookManagementSystem\\BookMS.Domain\\BookMS.Domain.csproj": {
+              "projectPath": "C:\\Users\\Amir_\\OneDrive\\Desktop\\Star Light Library\\src\\BookManagementSystem\\BookMS.Domain\\BookMS.Domain.csproj"
             }
           }
         }

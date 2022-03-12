@@ -1,7 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using OnlineBookStore.Common.Application;
-using System.Threading.Tasks;
-
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using OnlineBookStore.Common.Application;
+global using System.Threading.Tasks;
+global using BookMS.Domain.Entites;
+global using Microsoft.EntityFrameworkCore;
+global using Serilog;

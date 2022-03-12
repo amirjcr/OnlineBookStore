@@ -1,0 +1,15 @@
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\bin\Debug\net6.0\BookMS.Domain.deps.json
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\bin\Debug\net6.0\BookMS.Domain.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\bin\Debug\net6.0\ref\BookMS.Domain.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\bin\Debug\net6.0\BookMS.Domain.pdb
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\bin\Debug\net6.0\OnlineBookStore.Common.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\bin\Debug\net6.0\OnlineBookStore.Common.pdb
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.csproj.AssemblyReference.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.AssemblyInfo.cs
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.csproj.CopyComplete
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\ref\BookMS.Domain.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\src\BookManagementSystem\BookMS.Domain\obj\Debug\net6.0\BookMS.Domain.pdb

@@ -5,7 +5,7 @@ public class Book : BaseEntity<long>
 {
     public Book(string bookTitel, string bookDescription, DateOnly publishedDate, string coverImage, bool isAvaible, int categoryId, ICollection<BookType> bookTypes, ICollection<BookFeature> features, ushort pageSize, ICollection<BookImages> images)
     {
-        this.bookTitel = bookTitel;
+        BookTitel = bookTitel;
         BookDescription = bookDescription;
         PublishedDate = publishedDate;
         CoverImage = coverImage;
@@ -17,7 +17,7 @@ public class Book : BaseEntity<long>
         Images = images;
     }
 
-    public string bookTitel { get; private set; }
+    public string BookTitel { get; private set; }
     public string BookDescription { get; private set; }
     public DateOnly PublishedDate { get; private set; }
     public string CoverImage { get; private set; }

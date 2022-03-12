@@ -3,11 +3,12 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\OnlineBookStore.Common\OnlineBookStore.Common.csproj" />
+    <ProjectReference Include="..\src\BookManagementSystem\BookMS.Domain\BookMS.Domain.csproj" />
   </ItemGroup>
 
 </Project>
