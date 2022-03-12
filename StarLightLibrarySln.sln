@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMS.Domain", "src\BookMa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineBookStore.Common", "OnlineBookStore.Common\OnlineBookStore.Common.csproj", "{F28DCD6C-1522-4F30-8806-7331948A7700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMS.Application", "BookMS.Application\BookMS.Application.csproj", "{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMS.Application", "BookMS.Application\BookMS.Application.csproj", "{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMS.Infrastrucure", "BookMS.Infrastrucure\BookMS.Infrastrucure.csproj", "{DC36329A-FE0B-469C-ADB4-15A1935977CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMS.Infrastrucure", "BookMS.Infrastrucure\BookMS.Infrastrucure.csproj", "{DC36329A-FE0B-469C-ADB4-15A1935977CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookOnlineWebUI", "BookOnlineWebUI\BookOnlineWebUI.csproj", "{FE7AC884-7891-44A7-A219-86318B5DCF35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DC36329A-FE0B-469C-ADB4-15A1935977CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC36329A-FE0B-469C-ADB4-15A1935977CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC36329A-FE0B-469C-ADB4-15A1935977CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7AC884-7891-44A7-A219-86318B5DCF35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7AC884-7891-44A7-A219-86318B5DCF35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7AC884-7891-44A7-A219-86318B5DCF35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7AC884-7891-44A7-A219-86318B5DCF35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +56,7 @@ Global
 		{F28DCD6C-1522-4F30-8806-7331948A7700} = {E19129DE-91D2-4195-9CD0-7B387D8A8CBD}
 		{C6BCE134-BB53-4C7C-BA45-A8A9DFBF9B79} = {17BC694A-D5CD-4B0D-BACB-07D5CA1CA0CD}
 		{DC36329A-FE0B-469C-ADB4-15A1935977CA} = {17BC694A-D5CD-4B0D-BACB-07D5CA1CA0CD}
+		{FE7AC884-7891-44A7-A219-86318B5DCF35} = {925496C8-73C0-4326-A892-B04520DA4F6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {60458EAB-9CFB-4DCA-B4D0-40D53FA1A94A}

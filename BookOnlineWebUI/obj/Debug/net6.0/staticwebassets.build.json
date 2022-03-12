@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e62komfUg0sbuSGe549AS6Ic4nWc4/59xn2ppiJHmfk=",
+  "Source": "BookOnlineWebUI",
+  "BasePath": "_content/BookOnlineWebUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

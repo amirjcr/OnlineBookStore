@@ -3,3 +3,15 @@ C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\
 C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.AssemblyInfoInputs.cache
 C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.AssemblyInfo.cs
 C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\BookMS.Application.deps.json
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\BookMS.Application.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\ref\BookMS.Application.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\BookMS.Application.pdb
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\BookMS.Domain.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\OnlineBookStore.Common.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\OnlineBookStore.Common.pdb
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\bin\Debug\net6.0\BookMS.Domain.pdb
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.csproj.CopyComplete
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\ref\BookMS.Application.dll
+C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookMS.Application\obj\Debug\net6.0\BookMS.Application.pdb

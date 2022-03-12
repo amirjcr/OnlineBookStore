@@ -1,7 +1,7 @@
 ﻿using System.Linq.Expressions;
 using BookMS.Application.Interfaces;
 
-namespace BookTypeMS.Application.Interfaces;
+namespace BookMS.Application.Interfaces;
 
 public interface IBookTypeService
 {
@@ -51,7 +51,7 @@ public interface IBookTypeService
     ListResultDto<BookType> GetByCondition(int count, int skip, int page, Expression<Func<BookType, bool>> expression);
 }
 
-internal class BookTypeService : IBookTypeService
+public class BookTypeService : IBookTypeService
 {
 
     private readonly IBookMSDbContext _context;

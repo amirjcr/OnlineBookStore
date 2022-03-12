@@ -38,7 +38,6 @@ public interface ICategoryService
     /// <returns></returns>
     ListResultDto<Category> GetAll(int count, int skip, int page);
 
-
     /// <summary>
     /// return list of data type of <typeparamref name="Category"/> with condition and pagetion.
     /// </summary>
@@ -49,7 +48,7 @@ public interface ICategoryService
     ListResultDto<Category> GetByCondition(int count, int skip, int page, Expression<Func<Category, bool>> expression);
 }
 
-internal class CategoryService : ICategoryService
+public class CategoryService : ICategoryService
 {
     private readonly ILogger _logger;
     private readonly IBookMSDbContext _context;
