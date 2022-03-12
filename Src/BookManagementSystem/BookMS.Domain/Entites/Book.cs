@@ -3,7 +3,7 @@
 namespace BookMS.Domain.Entites;
 public class Book : BaseEntity<long>
 {
-    public Book(string bookTitel, string bookDescription, DateOnly publishedDate, string coverImage, bool isAvaible, int categoryId, ICollection<BookType> bookTypes, ICollection<BookFeature> features, ushort pageSize, ICollection<BookImages> images)
+    public Book(string bookTitel, string bookDescription, DateTime publishedDate, string coverImage, bool isAvaible, int categoryId, ICollection<BookType> bookTypes, ICollection<BookFeature> features, ushort pageSize, ICollection<BookImages> images)
     {
         BookTitel = bookTitel;
         BookDescription = bookDescription;
@@ -17,9 +17,14 @@ public class Book : BaseEntity<long>
         Images = images;
     }
 
+    public Book()
+    {
+
+    }
+
     public string BookTitel { get; private set; }
     public string BookDescription { get; private set; }
-    public DateOnly PublishedDate { get; private set; }
+    public DateTime PublishedDate { get; private set; }
     public string CoverImage { get; private set; }
     public bool IsAvaible { get; private set; }
     public ushort PageSize { get; private set; }

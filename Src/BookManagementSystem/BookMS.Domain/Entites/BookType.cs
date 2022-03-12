@@ -10,6 +10,11 @@ public class BookType : BaseEntity<byte>
         Books = books;
     }
 
+    public BookType()
+    {
+
+    }
+
     public string TypeName { get; private set; }
 
     public ICollection<Book> Books { get; private set; }

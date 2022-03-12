@@ -10,6 +10,11 @@ public class Category : BaseEntity<int>
         ParentId = ParentId;
     }
 
+
+    public Category()
+    {
+
+    }
     public string Titel { get; private set; }
 
     public int ParentId { get; private set; }

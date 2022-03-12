@@ -12,6 +12,7 @@ public class BookMSDbContext : DbContext, IBookMSDbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.CustomConfigure();
         base.OnModelCreating(modelBuilder);
     }
 

@@ -9,4 +9,3 @@ C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\De
 C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.dll
 C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\ref\OnlineBookStore.Common.dll
 C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.pdb
-C:\Users\Amir_\OneDrive\Desktop\Star Light Library\OnlineBookStore.Common\obj\Debug\net6.0\OnlineBookStore.Common.csproj.AssemblyReference.cache

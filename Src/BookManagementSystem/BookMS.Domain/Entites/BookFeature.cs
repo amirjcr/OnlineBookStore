@@ -4,6 +4,11 @@ namespace BookMS.Domain.Entites;
 
 public class BookFeature : BaseEntity<long>
 {
+
+    public BookFeature()
+    {
+
+    }
     public BookFeature(string titel, string value, long bookId, Book book)
     {
         Titel = titel;

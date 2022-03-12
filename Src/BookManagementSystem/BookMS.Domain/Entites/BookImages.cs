@@ -4,6 +4,11 @@ namespace BookMS.Domain.Entites;
 
 public class BookImages : BaseEntity<Guid>
 {
+
+    public BookImages()
+    {
+            
+    }
     public BookImages(string imageName, uint imageSize, ICollection<Book> books)
     {
         ImageName = imageName;
