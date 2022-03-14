@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+
+<html lang="fa" dir="rtl">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/fontawsome/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/AdminPanel.css" />
+
+</head>
+<body>
+    <div class="position-relative">
+
+        <div role="navigation" class="right-navbar">
+            <div class="user-info">
+                <img src="~/images/user-pic.webp" />
+                <p>amir hossein moradi</p>
+                <a><i class="fa-light fa-user-gear"></i></a>
+                <a><i class="fa-thin fa-id-card fa-lg"></i></a>
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a asp-page="" asp-area="">
+                            <i class="fa-thin fa-dashboard"></i>
+                            خانه
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-page="" asp-area="">
+                            <i class="fa-thin fa-books"></i>
+                            مدیریت کتاب ها
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-page="" asp-area="">
+                            <i class="fa-duotone fa-shield"></i>
+                            مدیریت نقش ها
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-page="" asp-area="">
+                            <i class="fa-regular fa-users"></i>
+                            مدیریت کاربران
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-page="" asp-area="">
+                            <i class="fa-regular fa-gears"></i>
+                            تنظیمات سایت
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+
+        <div>
+            @RenderBody()
+
+        </div>
+
+
+        <script src="~/lib/jquery/jquery-3.6.0.min.js"></script>
+        <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+    </div>
+</body>
+</html>

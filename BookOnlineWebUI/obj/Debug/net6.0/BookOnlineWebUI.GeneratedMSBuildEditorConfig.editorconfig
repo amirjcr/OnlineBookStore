@@ -11,6 +11,18 @@ build_property.RootNamespace = BookOnlineWebUI
 build_property.ProjectDir = C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookOnlineWebUI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Amir_\OneDrive\Desktop\Star Light Library\BookOnlineWebUI
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Amir_/OneDrive/Desktop/Star Light Library/BookOnlineWebUI/Areas/Admin/Pages/Panel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir_/OneDrive/Desktop/Star Light Library/BookOnlineWebUI/Areas/Admin/Pages/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amir_/OneDrive/Desktop/Star Light Library/BookOnlineWebUI/Areas/Admin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

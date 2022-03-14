@@ -15,6 +15,7 @@ try
     builder.Logging.ClearProviders();
     builder.Logging.AddSerilog(logger);
 
+
     builder.Services.AddRazorPages();
     builder.Services.AddSingleton<Serilog.ILogger>(x => logger);
 
@@ -26,6 +27,7 @@ try
     var app = builder.Build();
 
     app.UseHttpsRedirection();
+
     app.UseStaticFiles();
     app.UseRouting();
 

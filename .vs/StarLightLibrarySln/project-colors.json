@@ -25,7 +25,12 @@
       "ProjectGuid": "dc36329a-fe0b-469c-adb4-15a1935977ca",
       "DisplayName": "BookMS.Infrastrucure",
       "ColorIndex": 3
+    },
+    "fe7ac884-7891-44a7-a219-86318b5dcf35": {
+      "ProjectGuid": "fe7ac884-7891-44a7-a219-86318b5dcf35",
+      "DisplayName": "BookOnlineWebUI",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

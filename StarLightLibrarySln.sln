@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMS.Application", "BookM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMS.Infrastrucure", "BookMS.Infrastrucure\BookMS.Infrastrucure.csproj", "{DC36329A-FE0B-469C-ADB4-15A1935977CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookOnlineWebUI", "BookOnlineWebUI\BookOnlineWebUI.csproj", "{FE7AC884-7891-44A7-A219-86318B5DCF35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookOnlineWebUI", "BookOnlineWebUI\BookOnlineWebUI.csproj", "{FE7AC884-7891-44A7-A219-86318B5DCF35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
